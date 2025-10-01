@@ -69,6 +69,21 @@ Vale lembrar que eu comecei a tomar cafés melhores agora, então ainda não ten
 Equipamentos:
 - Leiteira
 - Coador melita (direto numa garrafa)
+- Filtro 104 melita
+
+1. Adiciono 500 ml de agua na leiteira até ferver. 
+2. Monto o coador com o filtro e escaldo o mesmo.
+3. Coloco 15/16g de café em pó, já moido, depende do café eu coloco menos ou mais, varia de acordo com o tamanho do grânulo.
+4. Deixo 2 min pra agua cair um pouco de temperatura, e faço a primeira infusão com 40g de água.
+5. Passados os 30 segundos da primeira infusão, tento fazer o primeiro despejo até uns 200g de água.
+6. Após um tempo, eu despejo mais 100g de água e espero 3 minutos de extração.
+7. Depois do tempo de extração eu misturo o café fazendo movimentos circulares com o punho e despejo-o em uma caneca (É para dar algo entorno de 250g ou menos, pois ainda sobra um pouco de água no filtro)
+
+Agora é so aproveitar o café...
+
+Futuramente quero mudar algumas coisas, principalmente comprar um moedor e moer, acredito que isso já melhoria quase 70% do gosto dele, que já esta 100% melhor que um café tradicional...
+
+
 
 ### Conclusão
 
