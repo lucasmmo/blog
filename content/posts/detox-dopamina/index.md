@@ -1,6 +1,5 @@
 +++
 date = '2025-10-01T18:34:25Z'
-draft = true
 title = 'Detox Dopamina'
 categories = 'pessoal'
 tags = ['dopamina']

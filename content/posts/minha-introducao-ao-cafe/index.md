@@ -1,6 +1,5 @@
 +++
 date = '2025-09-28T16:20:54-03:00'
-draft = true
 title = 'Como o café me mudou e me deu vontade de acordar de mais cedo'
 categories = 'pessoal'
 featured_image = 'home-cafe.jpg'
