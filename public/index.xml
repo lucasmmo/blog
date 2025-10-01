@@ -2,89 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meu Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://blog.lucasmmo.com.br/</link>
     <description>Recent content on Meu Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2025 16:20:54 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 18:34:25 +0000</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    
-        <item>
-        <title>Como o café me mudou e me deu vontade de acordar de mais cedo</title>
-        <link>http://localhost:1313/posts/minha-introducao-ao-cafe/</link>
-        <pubDate>Sun, 28 Sep 2025 16:20:54 -0300</pubDate>
-        
-        <guid>http://localhost:1313/posts/minha-introducao-ao-cafe/</guid>
-        <description>Meu Blog http://localhost:1313/posts/minha-introducao-ao-cafe/ -&lt;p&gt;Nos últimos meses, tenho sentido que estou em um platô. Minhas noites não são tão boas, meu sono não rende, e acordar cedo e disposto para trabalhar tem sido um desafio constante. Às vezes, até penso que posso estar entrando em uma fase introdutória de burnout — nada grave, mas suficiente para me deixar alerta.&lt;/p&gt;
-&lt;p&gt;Mas este post não é sobre burnout. É sobre um pequeno hábito que tem me ajudado a transformar, aos poucos, minhas manhãs: o café.&lt;/p&gt;
-&lt;h3 id=&#34;minha-relação-complicada-com-o-café&#34;&gt;Minha relação complicada com o café&lt;/h3&gt;
-&lt;p&gt;Se você me conhecesse alguns anos atrás, nunca imaginaria que eu estaria escrevendo um post desses. Eu odiava café. O gosto era amargo demais, parecia carvão líquido. Para conseguir engolir, colocava três colheres de açúcar em cada xícara. Só assim descia.&lt;/p&gt;
-&lt;p&gt;Além do sabor, ainda tinha os efeitos colaterais: meu coração acelerava, a ansiedade batia forte, e às vezes até sentia uma arritmia leve depois de uma simples xícara. Para mim, café era sinônimo de mal-estar.&lt;/p&gt;
-&lt;h3 id=&#34;o-que-mudou&#34;&gt;O que mudou&lt;/h3&gt;
-&lt;p&gt;Com o tempo, percebi que talvez não fosse o café em si o problema, mas a qualidade do café e como eu estava consumindo. Decidi dar uma segunda chance. Testei diferentes formas de preparo, tomei coragem de comprar um café no minimo Gourmet, uma classificacao acima do tradicional, e comecei a tomar em momentos mais adequados.&lt;/p&gt;
-&lt;p&gt;De repente, o café deixou de ser um inimigo e começou a se tornar um aliado.&lt;/p&gt;
-&lt;h3 id=&#34;os-benefícios-que-percebi&#34;&gt;Os benefícios que percebi&lt;/h3&gt;
-&lt;p&gt;Ainda estou longe de ter uma rotina matinal perfeita, mas algumas mudanças já ficaram claras:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Mais disposição para começar o dia. Aquela primeira xícara funciona quase como um empurrãozinho para sair da inércia.&lt;/li&gt;
-&lt;li&gt;Menos açúcar na rotina. Aprendi a apreciar o sabor do café sem precisar exagerar no doce.&lt;/li&gt;
-&lt;li&gt;Um ritual para minhas manhãs. Preparar o café virou parte da minha rotina, um momento meu antes de mergulhar no trabalho.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Tudo isso aconteceu pois eu melhorei a qualidade do café horrivel que estava consumindo. Sei que isso virou mais que uma vontade ou rotina, virou um hobbie, estudar e ver sobre café é uma coisa prazerosa que alegra meus dias.&lt;/p&gt;
-&lt;h3 id=&#34;qualidade-dos-cafés-brasileiros&#34;&gt;Qualidade dos cafés brasileiros&lt;/h3&gt;
-&lt;p&gt;Não sei se todos aqui sabem, mas o Brasil é o maior exportador de café do MUNDO, com grãos de altíssima qualidade. Porém, quando falamos em mercado interno, muitas vezes ficamos restritos a cafés de baixa qualidade.&lt;/p&gt;
-&lt;p&gt;Hoje, temos uma instituição chamada ABIC (Associação Brasileira da Indústria do Café). Ela criou uma classificação para ajudar o consumidor brasileiro a escolher cafés com um mínimo de garantia de qualidade.&lt;/p&gt;
-&lt;p&gt;Vou deixar aqui uma descrição pessoal dos tipos de café, do mais simples ao mais refinado:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;selos.png&#34; alt=&#34;Selos&#34;&gt;&lt;/p&gt;
-&lt;h4 id=&#34;1-extraforte&#34;&gt;1. Extraforte&lt;/h4&gt;
-&lt;p&gt;Esse aqui é o fundo do poço da qualidade. Normalmente feito com grãos defeituosos e cheios de impurezas, por isso são super torrados (ou “hypertorrados”), o que dá aquele sabor amargo e queimado. A torra muito escura serve para mascarar os defeitos e uniformizar o gosto. Resultado: café pesado, forte, mas sem nenhuma sutileza.&lt;/p&gt;
-&lt;h4 id=&#34;2-tradicional&#34;&gt;2. Tradicional&lt;/h4&gt;
-&lt;p&gt;É o que a maioria dos brasileiros consome no dia a dia. Geralmente feito de uma mistura de grãos arábica (de melhor qualidade) e robusta (mais amargo e encorpado). Ainda pode ter alguns defeitos, mas em menor quantidade que o extraforte. Costuma ter um sabor forte, amargo e marcante, mas já menos agressivo. É aquele café “do escritório” ou “de casa” que a gente encontra facilmente no supermercado.&lt;/p&gt;
-&lt;h4 id=&#34;3-superior&#34;&gt;3. Superior&lt;/h4&gt;
-&lt;p&gt;Um degrau acima do tradicional. Produzido com uma seleção mais cuidadosa, utilizando pelo menos 85% de grãos arábica de melhor qualidade. A torra é menos agressiva e o resultado é um café mais suave, aromático e agradável, mantendo ainda um preço acessível.&lt;/p&gt;
-&lt;h4 id=&#34;4-gourmet-atualmente-é-daqui-onde-eu-compro-meu-café&#34;&gt;4. Gourmet (atualmente é daqui onde eu compro meu café)&lt;/h4&gt;
-&lt;p&gt;Aqui a coisa já melhora bastante. O café gourmet é feito exclusivamente com grãos arábica selecionados, livres de impurezas e defeitos graves. A torra é mais controlada, valorizando o sabor natural do grão. Isso dá uma bebida mais equilibrada, com notas perceptíveis de chocolate, frutas secas ou caramelo, dependendo da região de origem. É o café ideal para quem quer sair do básico e experimentar algo de mais qualidade.&lt;/p&gt;
-&lt;h4 id=&#34;5-especial&#34;&gt;5. Especial&lt;/h4&gt;
-&lt;p&gt;O topo da cadeia. O café especial passa por um processo rigoroso de seleção e avaliação, seguindo padrões internacionais. Para ser considerado especial, precisa alcançar mais de 80 pontos em uma escala sensorial que avalia aroma, corpo, acidez, doçura e uniformidade. São cafés com sabores únicos e complexos, que podem trazer notas florais, frutadas e até vínicas. É aquele café para ser apreciado com calma, muitas vezes vendido em microlotes ou com indicação da fazenda produtora.&lt;/p&gt;
-&lt;h3 id=&#34;conclusão&#34;&gt;Conclusão&lt;/h3&gt;
-&lt;p&gt;Hoje, o café é mais do que uma bebida: é um símbolo de mudança gradual. Ainda estou em processo, mas sinto que esse hábito está me ajudando a criar manhãs mais leves e produtivas.&lt;/p&gt;
-&lt;p&gt;Quem sabe, no futuro, eu consiga dormir melhor, acordar mais cedo e com energia — e olhar para trás entendendo que tudo começou com uma simples xícara de café.&lt;/p&gt;
-- http://localhost:1313/posts/minha-introducao-ao-cafe/ - </description>
-        </item>
-    
-    
-    
-        <item>
-        <title>README.md</title>
-        <link>http://localhost:1313/readme/</link>
-        <pubDate>Mon, 22 Sep 2025 22:08:27 -0300</pubDate>
-        
-        <guid>http://localhost:1313/readme/</guid>
-        <description>Meu Blog http://localhost:1313/readme/ -&lt;p&gt;Bem-vindo ao meu espaço pessoal na internet! 🚀&lt;/p&gt;
-&lt;p&gt;Aqui você vai encontrar posts sobre assuntos diversos da minha vida, que podem variar desde reflexões do dia a dia, aprendizados, hobbies, até experiências pessoais e profissionais.
-A ideia é ter um lugar aberto onde eu possa compartilhar pensamentos, registrar momentos importantes e também organizar ideias.&lt;/p&gt;
-&lt;p&gt;✨ O que esperar?&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Textos sobre minha rotina e experiências pessoais&lt;/li&gt;
-&lt;li&gt;Reflexões e opiniões sobre temas variados&lt;/li&gt;
-&lt;li&gt;Relatos de aprendizados e estudos&lt;/li&gt;
-&lt;li&gt;Inspirações, dicas e curiosidades&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🎯 Objetivo&lt;/p&gt;
-&lt;p&gt;Esse blog é, antes de tudo, um registro pessoal.
-Não tem uma linha editorial fixa ou foco em apenas um tema: cada post será um recorte daquilo que estou vivendo ou pensando no momento.&lt;/p&gt;
-&lt;p&gt;🌐 Onde me encontrar&lt;/p&gt;
-&lt;p&gt;Você também pode me acompanhar pelas redes sociais:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/lucasmmo&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/lucasmmo/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.instagram.com/luke_moc/&#34;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-- http://localhost:1313/readme/ - </description>
-        </item>
+        <atom:link href="https://blog.lucasmmo.com.br/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

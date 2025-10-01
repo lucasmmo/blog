@@ -6,10 +6,17 @@
     <description>Recent content in Pessoal on Meu Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2025 16:20:54 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 18:34:25 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/pessoal/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Como o café mudou melhorou minha vontade de acordar de manhã</title>
+      <title>Detox Dopamina</title>
+      <link>http://localhost:1313/posts/detox-dopamina/</link>
+      <pubDate>Wed, 01 Oct 2025 18:34:25 +0000</pubDate>
+      <guid>http://localhost:1313/posts/detox-dopamina/</guid>
+      <description>&lt;p&gt;Tá, eu sou viciado em dopamina, não consigo ficar no tedio durante algum tempo, preciso estar costantemente fazendo algo e sinto que isso me cansa mentalmente, porém se eu não fizer eu acho que eu surto.&lt;/p&gt;&#xA;&lt;p&gt;Entretanto estou com uma ideia&amp;hellip; Fazer um Detox de Dopamina. Parece uma boa ideia tentar fazer isso como um projeto e gostaria de escrever sobre isso&amp;hellip;&lt;/p&gt;&#xA;&lt;h3 id=&#34;primeiros-passos&#34;&gt;Primeiros Passos&lt;/h3&gt;&#xA;&lt;p&gt;Acho que para comecar eu preciso primeiro entender a minha rotina, entender como eu estou levando meu dia a dia, e entender onde estou desprendendo tempo para fazer as coisas que eu preciso e também o que eu não preciso (tempo que perco embusca da dopamina).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Como o café me mudou e me deu vontade de acordar de mais cedo</title>
       <link>http://localhost:1313/posts/minha-introducao-ao-cafe/</link>
       <pubDate>Sun, 28 Sep 2025 16:20:54 -0300</pubDate>
       <guid>http://localhost:1313/posts/minha-introducao-ao-cafe/</guid>
@@ -20,7 +27,7 @@
       <link>http://localhost:1313/readme/</link>
       <pubDate>Mon, 22 Sep 2025 22:08:27 -0300</pubDate>
       <guid>http://localhost:1313/readme/</guid>
-      <description>&lt;p&gt;Bem-vindo ao meu espaço pessoal na internet! 🚀&lt;/p&gt;&#xA;&lt;p&gt;Aqui você vai encontrar posts sobre assuntos diversos da minha vida, que podem variar desde reflexões do dia a dia, aprendizados, hobbies, até experiências pessoais e profissionais.&#xA;A ideia é ter um lugar aberto onde eu possa compartilhar pensamentos, registrar momentos importantes e também organizar ideias.&lt;/p&gt;&#xA;&lt;p&gt;✨ O que esperar?&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Textos sobre minha rotina e experiências pessoais&lt;/li&gt;&#xA;&lt;li&gt;Reflexões e opiniões sobre temas variados&lt;/li&gt;&#xA;&lt;li&gt;Relatos de aprendizados e estudos&lt;/li&gt;&#xA;&lt;li&gt;Inspirações, dicas e curiosidades&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;🎯 Objetivo&lt;/p&gt;</description>
+      <description>&lt;p&gt;Bem-vindo ao meu espaço pessoal na internet! 🚀&lt;/p&gt;&#xA;&lt;p&gt;Aqui você vai encontrar posts sobre assuntos diversos da minha vida, que podem variar desde reflexões do dia a dia, aprendizados, hobbies, até experiências pessoais e profissionais.&#xA;A ideia é ter um lugar aberto onde eu possa compartilhar pensamentos, registrar momentos importantes e também organizar ideias.&#xA;Além de talvez me ajudar a organizar meus pensamentos e tentar sair do plató de onde eu me encontro.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

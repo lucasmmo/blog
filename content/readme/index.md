@@ -8,6 +8,7 @@ Bem-vindo ao meu espaço pessoal na internet! 🚀
 
 Aqui você vai encontrar posts sobre assuntos diversos da minha vida, que podem variar desde reflexões do dia a dia, aprendizados, hobbies, até experiências pessoais e profissionais.
 A ideia é ter um lugar aberto onde eu possa compartilhar pensamentos, registrar momentos importantes e também organizar ideias.
+Além de talvez me ajudar a organizar meus pensamentos e tentar sair do plató de onde eu me encontro.
 
 ✨ O que esperar?
 

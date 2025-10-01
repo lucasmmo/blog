@@ -2,18 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Meu Blog</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://blog.lucasmmo.com.br/tags/</link>
     <description>Recent content in Tags on Meu Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2025 16:20:54 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Café</title>
-      <link>http://localhost:1313/tags/caf%C3%A9/</link>
-      <pubDate>Sun, 28 Sep 2025 16:20:54 -0300</pubDate>
-      <guid>http://localhost:1313/tags/caf%C3%A9/</guid>
-      <description></description>
-    </item>
+    <atom:link href="https://blog.lucasmmo.com.br/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

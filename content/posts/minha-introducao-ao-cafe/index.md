@@ -29,6 +29,7 @@ Ainda estou longe de ter uma rotina matinal perfeita, mas algumas mudanças já 
 - Mais disposição para começar o dia. Aquela primeira xícara funciona quase como um empurrãozinho para sair da inércia.
 - Menos açúcar na rotina. Aprendi a apreciar o sabor do café sem precisar exagerar no doce.
 - Um ritual para minhas manhãs. Preparar o café virou parte da minha rotina, um momento meu antes de mergulhar no trabalho.
+- Minha rotina de ir no banheiro também melhorou. Parece que estou mais amigo do meu intestino.
 
 Tudo isso aconteceu pois eu melhorei a qualidade do café horrivel que estava consumindo. Sei que isso virou mais que uma vontade ou rotina, virou um hobbie, estudar e ver sobre café é uma coisa prazerosa que alegra meus dias.
 

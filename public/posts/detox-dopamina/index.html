@@ -1,0 +1,648 @@
+<!DOCTYPE html>
+<html lang="pt-br"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<title>Detox Dopamina</title>
+
+
+
+
+<meta charset="utf-8">
+<meta name="X-UA-Compatible" content="IE=edge">
+<meta name="google-site-verification" content="">
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=5, user-scalable=5" name="viewport">
+<meta content="telephone=no" name="format-detection">
+<meta name="description" content="">
+<meta name="renderer" content="webkit">
+<meta name="theme-color" content="#ffffff">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+      <script src="/js/toc.js"></script>
+    
+    <link type="text/css" rel="stylesheet" href="/vendor/css/bootstrap.min.css">
+
+<link rel="stylesheet" href="/scss/dark-mode.min.3fc3309d915185eac8e196073f192176846c9039e1f54b87c1ce27a0677ce7ae.css" integrity="sha256-P8MwnZFRherI4ZYHPxkhdoRskDnh9UuHwc4noGd8564=" media="screen">
+
+
+<link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Material+Icons">
+
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.css" integrity="sha384-RZU/ijkSsFbcmivfdRBQDtwuwVqK7GMOw6IMvKyeWL2K5UAlyp6WonmB8m7Jd0Hn" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.js" integrity="sha384-pK1WpvzWVBQiP0/GjnvRxV4mOb0oxFuyRxJlk6vVw146n3egcN5C925NCP7a7BY8" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/contrib/auto-render.min.js" integrity="sha384-vZTG03m+2yp6N6BNi5iM4rW4oIwk5DfcNdFfxkk9ZWpDriOkXX8voJBFrAO7MpVl" crossorigin="anonymous"></script>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+          
+          
+          delimiters: [
+              {left: '$$', right: '$$', display: true},
+              {left: '$', right: '$', display: false},
+              {left: '\\(', right: '\\)', display: false},
+              {left: '\\[', right: '\\]', display: true}
+          ],
+          
+          throwOnError : false
+        });
+    });
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body>
+    	<div id="app"><div class="single-column-drawer-container" id="drawer"
+     v-bind:class="{ 'single-column-drawer-container-active': isDrawerOpen }">
+    <div class="drawer-content">
+        <div class="drawer-menu">
+            
+            
+            
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="/readme">
+                    README.md
+                </a>
+                
+            
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="/categories">
+                    Categorias
+                </a>
+                
+            
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="/tags">
+                    Tags
+                </a>
+                
+            
+            
+            <div class="toc">
+
+
+	<div class="toc-content">
+	
+		
+		
+		
+		<center>- CONTEÚDO -</center>
+		
+		
+		<ul>
+			
+				
+				
+					
+						
+						
+						
+						
+							
+								
+									<ul>
+								
+							
+								
+									<ul>
+								
+							
+						
+						
+							<li>
+								<a href="#minha-rotina-atual" class="nav-minha-rotina-atual">
+									Minha Rotina Atual
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#como-a-ia-est%c3%a1-me-ajudando" class="nav-como-a-ia-está-me-ajudando">
+									Como a IA está me ajudando
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#rotina-di%c3%a1ria-vers%c3%a3o-inicial-do-detox" class="nav-rotina-diária-versão-inicial-do-detox">
+									Rotina Diária (versão inicial do Detox)
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#regras-do-detox-progressivo" class="nav-regras-do-detox-progressivo">
+									Regras do Detox Progressivo
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#considera%c3%a7%c3%b5es-finais" class="nav-considerações-finais">
+									Considerações Finais
+								</a>
+							</li>
+						
+						
+					
+				
+			
+		</ul>
+	</div>
+
+</div>
+            
+        </div>
+    </div>
+</div>
+<transition name="fade">
+    <div id="drawer-mask" v-bind:class="{ 'single-column-drawer-mask': mounted }" v-if="isDrawerOpen" v-on:click="toggleDrawer"></div>
+</transition>
+<nav id="navBar" class="navbar sticky-top navbar-light single-column-nav-container">
+    <div id="navBackground" class="nav-background"></div>
+    <div class="container container-narrow nav-content">
+        <button id="nav_dropdown_btn" class="nav-dropdown-toggle" type="button" v-on:click="toggleDrawer">
+            <i class="material-icons">
+                menu
+            </i>
+        </button>
+        <a id="navTitle" class="navbar-brand" href="http://localhost:1313/">
+            Meu Blog
+        </a>
+        
+        <button type="button" class="nav-darkmode-toggle" id="darkModeToggleButton2">
+            <i class="material-icons" id="darkModeToggleIcon2">
+                dark_mode
+            </i>
+        </button>
+        
+    </div>
+</nav>
+<div class="single-column-header-container" id="pageHead"
+     v-bind:style="{ transform: 'translateZ(0px) translateY('+.3*scrollY+'px)', opacity: 1-navOpacity }">
+    <a href="http://localhost:1313/">
+        <div class="single-column-header-title">Meu Blog</div>
+        
+        <div class="single-column-header-subtitle">By Lucas Mocerino Monteiro</div>
+        
+
+    </a>
+</div>
+
+            <div id="content">
+                <div id="streamContainer" class="stream-container">
+
+    <div class="post-list-container post-list-container-shadow">
+        <div class="post">
+            
+            
+            
+
+            <div class="post-head-wrapper-text-only"
+                
+            >
+                <div class="post-title">
+                    Detox Dopamina
+                    
+                    <div class="post-meta">
+                        
+                        <time itemprop="datePublished">
+                            2025-10-01 18:34
+                        </time>
+                        
+
+                        
+                            <i class="material-icons" style="">folder</i>
+                                <a href="/categories/pessoal">pessoal</a>
+                                &nbsp;
+                        
+
+                        
+                            <i class="material-icons" style="">label</i>
+                            
+                                <a href="/tags/dopamina">dopamina</a>
+                                &nbsp;
+                            
+                        
+                        
+                    </div>
+                </div>
+            </div>
+            
+            <div class="post-body-wrapper">
+                
+                <div class="post-body" v-pre>
+                
+                    <p>Nos últimos tempos, tenho percebido algo que me incomoda: sinto que sou viciado em dopamina. Não consigo ficar entediado por muito tempo, preciso estar constantemente fazendo algo, o que me cansa mentalmente. Se fico sem fazer nada, sinto que vou surtar.</p>
+<p>Essa dependência de estímulos constantes me fez pensar em algo que nunca havia considerado seriamente: um detox de dopamina. Quero transformar isso em um projeto pessoal e registrar minha experiência aqui, não só para me ajudar a refletir sobre o processo, mas também para compartilhar com quem possa estar passando por algo similar.</p>
+<p>Antes de tudo, preciso entender melhor minha rotina. Como estou levando meu dia a dia? Onde estou gastando tempo com o que realmente importa? E onde estou desperdiçando tempo só buscando dopamina rápida através de redes sociais, vídeos e outros estímulos?</p>
+<hr>
+<h3 id="minha-rotina-atual">Minha Rotina Atual</h3>
+<p>Vou começar descrevendo como está minha rotina hoje, para ter uma base de comparação.</p>
+<p><strong>Manhã</strong></p>
+<p>Acordo geralmente às 8:30, às vezes 9:00, já que trabalho de casa. Assim que ligo o PC do trabalho, checo mensagens e e-mails do dia anterior. Se não houver nada urgente, saio do PC para preparar meu café — inclusive, escrevi um post sobre como o café está mudando minha rotina. <a href="/posts/minha-introducao-ao-cafe">Veja aqui</a></p>
+<p>Volto e começo a trabalhar, mas durante o dia acabo entrando no Instagram e YouTube para ver reels e vídeos, perdendo o foco constantemente. Fico nesse ciclo de trabalhar um pouco e procrastinar até por volta das 18:00, quando começo a encerrar o expediente.</p>
+<p><strong>Depois do trabalho</strong></p>
+<p>Saio um pouco do PC. Às vezes busco minha namorada no metrô quando ela vai presencialmente. Tomo banho e volto para sentar no PC e jogar com meus amigos. Não quero abrir mão desse hábito, pois é importante para manter minhas amizades. Mesmo assim, continuo consumindo vídeos e reels até umas 22h ou 23h.</p>
+<hr>
+<h3 id="como-a-ia-está-me-ajudando">Como a IA está me ajudando</h3>
+<p>Confesso que tenho usado IA (LLMs) para montar planos simples e organizar ideias que já tenho, mas preciso estruturar melhor. Pedi para a IA me ajudar a criar uma rotina baseada nos meus hábitos atuais, com o objetivo de reduzir o consumo excessivo de vídeos e a busca por dopamina rápida.</p>
+<hr>
+<h3 id="rotina-diária-versão-inicial-do-detox">Rotina Diária (versão inicial do Detox)</h3>
+<p>Com base na minha rotina atual e nas sugestões da IA, criei um plano que tenta equilibrar produtividade e bem-estar. Vou tentar seguir essa estrutura:</p>
+<p><strong>Manhã</strong></p>
+<pre tabindex="0"><code>08:30 – Acordar (beber água, nada de celular)
+08:35 – 09:00 – Treino em casa (20–25 min)
+    - Aquecimento rápido (3–5 min)
+    - Circuito corpo inteiro (3 rodadas: agachamento, flexão, prancha, afundo, abdominal)
+    - Alongamento final (2–3 min)
+09:00 – 09:15 – Higiene + café da manhã
+09:15 – 09:30 – Planejamento do dia (anotar 2–3 prioridades)
+09:30 – 18:00 – Trabalho
+    - Durante o expediente: sem YouTube/Instagram
+    - Música/podcast: só áudio, sem vídeo
+    - Pausas rápidas de 5 min a cada 2–3h (alongar, beber água)
+</code></pre><p><strong>Noite</strong></p>
+<pre tabindex="0"><code>18:00 – 19:00 – Descompressão
+    - Banho, arrumar o espaço, pequena caminhada (se possível)
+19:00 – 22:00 – Jogos + jantar
+    - Lazer com amigos + refeição
+    - Regra: terminar até 22h no máximo
+22:00 – 22:30 – Ritual de desligamento
+    - Nada de jogos/redes sociais
+    - Atividade calma: leitura, diário, alongamento leve, música/podcast relaxante
+22:30 – 23:00 – Preparar para dormir
+    - Luz baixa, celular fora da cama
+    - Ler algo leve ou refletir sobre o dia
+23:00 – Dormir 😴
+</code></pre><hr>
+<h3 id="regras-do-detox-progressivo">Regras do Detox Progressivo</h3>
+<p>Sei que mudanças drásticas podem ser difíceis de manter, então criei um plano progressivo:</p>
+<p><strong>Semana 1</strong></p>
+<pre tabindex="0"><code>- YouTube: máximo 2h/dia (ex: 1h no almoço + 1h antes/depois do jogo)
+- Instagram: máximo 30 min/dia
+</code></pre><p><strong>Semana 2</strong></p>
+<pre tabindex="0"><code>- YouTube: máximo 1h/dia (somente à noite)
+- Instagram: máximo 15–20 min/dia
+</code></pre><p><strong>Semana 3</strong></p>
+<pre tabindex="0"><code>- YouTube: 1h/dia, apenas conteúdo escolhido (sem feed infinito)
+- Jogos: permitidos das 19h às 22h, travar nesse horário
+</code></pre><hr>
+<h3 id="considerações-finais">Considerações Finais</h3>
+<p>Pedi para a IA incluir uma pequena atividade física no plano, pois sei que isso será importante para o futuro. Estou sedentário, então é melhor começar enquanto sou jovem. Gostei das sugestões da IA e vou tentar seguir esse plano.</p>
+<p>Escrever esses posts também me motiva a experimentar coisas novas. É como se fosse uma forma de me comprometer publicamente com as mudanças que quero fazer na minha vida. Quem sabe, no futuro, eu consiga olhar para trás e ver como esse detox de dopamina foi o início de uma transformação maior.</p>
+<p>Ainda não sei se vou conseguir seguir tudo à risca, mas o importante é começar. E se você está lendo isso e se identificou com alguma parte, talvez seja um sinal para você também refletir sobre seus próprios hábitos e dependências digitais.</p>
+
+                    
+                    <HR width="100%" id="EOF">
+		    <p style="color:#777;">Última modificação em 2025-10-01</p>
+                    
+                </div>
+            </div>
+            
+            
+            <nav class="post-pagination">
+
+                
+                <a class="newer-posts">
+			Próximo<br>Não há posts mais novos.
+                </a>
+                
+                
+                
+                <a class="older-posts" href="/posts/minha-introducao-ao-cafe/">
+			Anterior<br>Como o café me mudou e me deu vontade de acordar de mais cedo
+                </a>
+                
+            </nav>
+            <div class="post-comment-wrapper">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+            </div>
+        </div>
+    </div>
+
+
+                    </div>
+            </div><div id="sideContainer" class="side-container">
+    
+    <a class="a-block nav-head false" href="http://localhost:1313/">
+    
+        <div class="nav-title">
+            Meu Blog
+        </div>
+        
+        <div class="nav-subtitle">
+            By Lucas Mocerino Monteiro
+        </div>
+        
+    </a>
+
+    <div class="nav-link-list">
+        
+        
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="/readme">
+                README.md
+            </a>
+            
+        
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="/categories">
+                Categorias
+            </a>
+            
+        
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="/tags">
+                Tags
+            </a>
+            
+        
+    </div>
+
+    
+
+    <div class="nav-footer">
+        
+Tema do Hugo <a href="https://github.com/amazingrise/hugo-theme-diary">Diary</a> por <a href="https://risehere.net/">Rise</a>
+<br>
+Criado a partir de <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopener">Makito</a>'s <a href="https://github.com/SumiMakito/hexo-theme-journal/" target="_blank" rel="noreferrer noopener">Journal.</a> <br>
+<br>
+
+&copy;
+	
+	2025 Meu Blog
+	
+
+    </div>
+    
+</div><div id="extraContainer" class="extra-container">
+    <div class="toc-wrapper">
+        
+
+        
+        <div class="toc">
+
+
+	<div class="toc-content">
+	
+		
+		
+		
+		<center>- CONTEÚDO -</center>
+		
+		
+		<ul>
+			
+				
+				
+					
+						
+						
+						
+						
+							
+								
+									<ul>
+								
+							
+								
+									<ul>
+								
+							
+						
+						
+							<li>
+								<a href="#minha-rotina-atual" class="nav-minha-rotina-atual">
+									Minha Rotina Atual
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#como-a-ia-est%c3%a1-me-ajudando" class="nav-como-a-ia-está-me-ajudando">
+									Como a IA está me ajudando
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#rotina-di%c3%a1ria-vers%c3%a3o-inicial-do-detox" class="nav-rotina-diária-versão-inicial-do-detox">
+									Rotina Diária (versão inicial do Detox)
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#regras-do-detox-progressivo" class="nav-regras-do-detox-progressivo">
+									Regras do Detox Progressivo
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#considera%c3%a7%c3%b5es-finais" class="nav-considerações-finais">
+									Considerações Finais
+								</a>
+							</li>
+						
+						
+					
+				
+			
+		</ul>
+	</div>
+
+</div>
+        
+    </div>
+    <div class="pagination">
+        <a id="globalBackToTop" class="pagination-action animated-visibility" href="#top"
+            :class="{ invisible: scrollY == 0 }">
+            <i class="material-icons pagination-action-icon">
+                keyboard_arrow_up
+            </i>
+        </a>
+        
+        <a type="button" class="pagination-action" id="darkModeToggleButton">
+            <span class="material-icons pagination-action-icon" id="darkModeToggleIcon">
+                dark_mode
+            </span>
+        </a>
+        
+        
+    </div>
+</div>
+
+<div id="single-column-footer">
+Tema do Hugo <a href="https://github.com/amazingrise/hugo-theme-diary">Diary</a> por <a href="https://risehere.net/">Rise</a>
+<br>
+Criado a partir de <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopener">Makito</a>'s <a href="https://github.com/SumiMakito/hexo-theme-journal/" target="_blank" rel="noreferrer noopener">Journal.</a> <br>
+<br>
+
+&copy;
+	
+	2025 Meu Blog
+	
+</div>
+            </div>
+    
+    <script src="/js/journal.js"></script></body>
+</html>
