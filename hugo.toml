@@ -1,4 +1,4 @@
-baseURL = 'https://blog.lucasmmo.com.br/'
+baseURL = ''
 languageCode = 'en-us'
 title = 'Meu Blog'
 theme = 'diary'

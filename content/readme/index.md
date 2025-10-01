@@ -1,6 +1,5 @@
 +++
 date = '2025-09-22T22:08:27-03:00'
-draft = true
 title = 'README.md'
 categories =  'pessoal'
 +++
