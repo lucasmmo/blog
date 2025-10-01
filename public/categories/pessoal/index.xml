@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pessoal on Meu Blog</title>
+    <link>http://localhost:1313/categories/pessoal/</link>
+    <description>Recent content in Pessoal on Meu Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Sep 2025 16:20:54 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/pessoal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Como o café mudou melhorou minha vontade de acordar de manhã</title>
+      <link>http://localhost:1313/posts/minha-introducao-ao-cafe/</link>
+      <pubDate>Sun, 28 Sep 2025 16:20:54 -0300</pubDate>
+      <guid>http://localhost:1313/posts/minha-introducao-ao-cafe/</guid>
+      <description>&lt;p&gt;Nos últimos meses, tenho sentido que estou em um platô. Minhas noites não são tão boas, meu sono não rende, e acordar cedo e disposto para trabalhar tem sido um desafio constante. Às vezes, até penso que posso estar entrando em uma fase introdutória de burnout — nada grave, mas suficiente para me deixar alerta.&lt;/p&gt;&#xA;&lt;p&gt;Mas este post não é sobre burnout. É sobre um pequeno hábito que tem me ajudado a transformar, aos poucos, minhas manhãs: o café.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>README.md</title>
+      <link>http://localhost:1313/readme/</link>
+      <pubDate>Mon, 22 Sep 2025 22:08:27 -0300</pubDate>
+      <guid>http://localhost:1313/readme/</guid>
+      <description>&lt;p&gt;Bem-vindo ao meu espaço pessoal na internet! 🚀&lt;/p&gt;&#xA;&lt;p&gt;Aqui você vai encontrar posts sobre assuntos diversos da minha vida, que podem variar desde reflexões do dia a dia, aprendizados, hobbies, até experiências pessoais e profissionais.&#xA;A ideia é ter um lugar aberto onde eu possa compartilhar pensamentos, registrar momentos importantes e também organizar ideias.&lt;/p&gt;&#xA;&lt;p&gt;✨ O que esperar?&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Textos sobre minha rotina e experiências pessoais&lt;/li&gt;&#xA;&lt;li&gt;Reflexões e opiniões sobre temas variados&lt;/li&gt;&#xA;&lt;li&gt;Relatos de aprendizados e estudos&lt;/li&gt;&#xA;&lt;li&gt;Inspirações, dicas e curiosidades&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;🎯 Objetivo&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

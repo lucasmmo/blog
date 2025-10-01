@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Meu Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Meu Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Sep 2025 16:20:54 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Como o café mudou melhorou minha vontade de acordar de manhã</title>
+      <link>http://localhost:1313/posts/minha-introducao-ao-cafe/</link>
+      <pubDate>Sun, 28 Sep 2025 16:20:54 -0300</pubDate>
+      <guid>http://localhost:1313/posts/minha-introducao-ao-cafe/</guid>
+      <description>&lt;p&gt;Nos últimos meses, tenho sentido que estou em um platô. Minhas noites não são tão boas, meu sono não rende, e acordar cedo e disposto para trabalhar tem sido um desafio constante. Às vezes, até penso que posso estar entrando em uma fase introdutória de burnout — nada grave, mas suficiente para me deixar alerta.&lt;/p&gt;&#xA;&lt;p&gt;Mas este post não é sobre burnout. É sobre um pequeno hábito que tem me ajudado a transformar, aos poucos, minhas manhãs: o café.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
