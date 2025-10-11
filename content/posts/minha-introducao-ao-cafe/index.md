@@ -83,7 +83,7 @@ Agora é so aproveitar o café...
 
 Futuramente quero mudar algumas coisas, principalmente comprar um moedor e moer, acredito que isso já melhoria quase 70% do gosto dele, que já esta 100% melhor que um café tradicional...
 
-
+> Edit: Para ter uma extração coesa, a necessidade de manter o fluxo do café contínuo é imprescindível. Então fique atento nos despejos para que sempre esteja com um fio de extração água de café. Isso vai ajudar para que o café não seja super extraído.
 
 ### Conclusão
 
